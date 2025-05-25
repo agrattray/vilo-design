@@ -2,8 +2,19 @@
 
 **Web Development & Software Engineering Solutions**
 
-This is the official homepage of Vilo Design.
+Welcome to the official Vilo Design website repository.
 
-- Static website hosted via GitHub Pages
-- Contains: index.html and README.md in root
-- To deploy: Push to `main` branch and enable GitHub Pages from the root folder
+## 🌐 Live URL (after deployment)
+
+https://agrattray.github.io/vilo-design/
+
+## 📁 Contents
+
+- `index.html` — Full responsive website
+- `README.md` — Info for GitHub visitors
+
+## ✅ How to Deploy
+
+1. Push this folder to your GitHub repo (https://github.com/agrattray/vilo-design)
+2. Go to Settings → Pages → Source: `main` branch, Folder: `/ (root)`
+3. Save and visit your GitHub Pages URL.
